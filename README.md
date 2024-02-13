@@ -1,4 +1,7 @@
-# Digital Marketing Using Augmented Reality (Android App)
+# Digital Marketing Using Augmented Reality 
+
+
+![image](https://github.com/Yash-Gavade/Digital_Marketing_using_Augmented_Reality/assets/74112721/3d1f1e31-2069-49a4-b010-9973d0b2538a)
 
 ## Introduction:
 The AR marketing app reshaping local vendor marketing. Revolutionize your marketing approach with personalized AR experiences for customers. Step into the future of digital marketing with DMAR.
