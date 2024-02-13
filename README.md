@@ -10,11 +10,11 @@ Simplify local vendor marketing while enhancing customer engagement through pers
 Empower local vendors to stand out in a crowded market by offering innovative and personalized AR marketing solutions. With DMAR, businesses can captivate customers, boost brand visibility, and stay ahead in the digital marketing landscape.
 
 ### Technology Stack 
-*`Android Studio`
-*`AR Core`
-*`Firebase`
-*`Kotlin`
-*`JAVA`
+*`Android Studio`<br>
+*`AR Core`<br>
+*`Firebase`<br>
+*`Kotlin`<br>
+*`JAVA`<br>
 
 
 <br><br>
